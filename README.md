@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
-<h3 align="center">I am a Full Stack Developer with 1.5 years of experience in PHP and intermediate-level skills in MERN, from India.</h3>
+<h3 align="center">I am a Full Stack Developer with 1.5 years of experience in PHP development and a keen interest in the MERN stack. While I am a fresher in MERN, I have a solid foundation in web development and have been actively learning and building projects to strengthen my skills in React, Node.js, Express, and MongoDB. I am eager to contribute to impactful projects and grow as a MERN stack developer.</h3>
 
 - 🔭 I’m currently working on **MERN (projects) and also I learn TypeScript**
 
